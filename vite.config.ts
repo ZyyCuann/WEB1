@@ -9,7 +9,7 @@ export default defineConfig(({ mode }) => ({
     port: 8080
   },
   plugins: [ react()],
-  base: "/WEB1",
+  base: "/WEB1/",
 
   resolve: {
     alias: {
